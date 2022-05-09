@@ -147,21 +147,21 @@
 //      echo $i.'<br>'; 
 //      $i++;
 //    } while ($i<= 100);
-$details = array(
+// $details = array(
 
-    'name' =>'Mohit kumar singh',
-    'age' => '21',
-    'study' => 'BCA',
-    'father' => 'shayamkant singh',
+//     'name' =>'Mohit kumar singh',
+//     'age' => '21',
+//     'study' => 'BCA',
+//     'father' => 'shayamkant singh',
     
   
-);
-var_dump($details);
-echo '<br>';
+// );
+// var_dump($details);
+// echo '<br>';
 
 
-foreach ($details as $key => $member)
- {
-  echo $key.'='.$member,'<br>' ;    
+// foreach ($details as $key => $member)
+//  {
+//   echo $key.'='.$member,'<br>' ;    
 }
 
