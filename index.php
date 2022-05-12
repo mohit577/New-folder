@@ -271,7 +271,7 @@
         // echo "Search Key =".strpos($a,"KEY")."<br>";
         // echo "Replace =".str_replace("SUCCESS","SUCCESSFUL",$a);
 
-        echo "MOHIT","<br>","KUMAR","<br>","SINGH";
+        // echo "MOHIT","<br>","KUMAR","<br>","SINGH";
         
         // $a = 23;
         // var_dump($a);
@@ -294,9 +294,47 @@
 
         // echo cars[2];
         // echo cars[0];
-        
+
+        // $a= 1;
+        // if ($a=1) {
+            
+        // }
+        // switch ($a) {
+        //     case '1':
+        //         echo "SUNDAY";
+        //         break;
+        //     case '2':
+        //         echo "MONDAY";
+        //          break;
+        //     case '3':
+        //         echo "TUESDAY";
+        //         break;
+        //     case '4':
+        //         echo "WEDNESDAY";
+        //         break;
+        //     case '5':
+        //         echo "THRUSDAY";
+        //         break;
+        //     case '6':
+        //         echo "FRIDAY";
+        //         break;
+        //     case '7':
+        //         echo "SATURDAY";
+        //         break;
+
+               
+        //     default:
+        //         echo "WRONG INPUT";
+        //         break;
+        // }
 
         
+        $t=5;
+        for($i=1;$i<=10;$i++)
+        {
+            echo $t."X".$i."=".$t*$i."<br>";
+        }
+
        ?>
         
         
