@@ -263,14 +263,40 @@
 
 
 
-        $a ="HARD WORK IS A KEY TO SUCCESS";
-        echo $a,"<br>";
-        echo"Length =".strlen($a)."<br>";
-        echo "Word count =".str_word_count($a),"<br>";
-        echo "reverse =".strrev($a). "<br>";
-        echo "Search Key =".strpos($a,"KEY")."<br>";
-        echo "Replace =".str_replace("SUCCESS","SUCCESSFUL",$a);
+        // $a ="HARD WORK IS A KEY TO SUCCESS";
+        // echo $a,"<br>";
+        // echo"Length =".strlen($a)."<br>";
+        // echo "Word count =".str_word_count($a),"<br>";
+        // echo "reverse =".strrev($a). "<br>";
+        // echo "Search Key =".strpos($a,"KEY")."<br>";
+        // echo "Replace =".str_replace("SUCCESS","SUCCESSFUL",$a);
 
+        echo "MOHIT","<br>","KUMAR","<br>","SINGH";
+        
+        // $a = 23;
+        // var_dump($a);
+        // $b = (float)$a;
+        // var_dump($b);
+        // print "<br>";
+        
+        
+        
+        // define (Name.Value.Case in sensitive);
+        // define ("A","HELLO World",true);
+        // echo A;
+        // function H()
+        // {
+        //     echo A;
+        // }
+        
+
+        // define (cars,['BMW','Audi','RR'],True);
+
+        // echo cars[2];
+        // echo cars[0];
+        
+
+        
        ?>
         
         
